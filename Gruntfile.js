@@ -8,7 +8,7 @@ module.exports = function (grunt) {
       target: {
         options: {
           war_dist_folder: '.', /* Folder where to generate the WAR. */
-          war_name: 'ngrouterdemo'                    /* The name fo the WAR file (.war will be the extension) */
+          war_name: 'routerdemo'                    /* The name fo the WAR file (.war will be the extension) */
         },
         files: [
           {
